@@ -28,7 +28,7 @@ require (
 	github.com/google/go-tpm v0.3.3
 	github.com/google/go-tpm-tools v0.3.8
 	github.com/google/uuid v1.3.0
-	github.com/gophercloud/gophercloud v0.25.0
+	github.com/gophercloud/gophercloud v1.0.0
 	github.com/hashicorp/hcl/v2 v2.12.0
 	github.com/hashicorp/vault/api v1.7.2
 	github.com/hetznercloud/hcloud-go v1.33.2
