@@ -29,7 +29,7 @@ require (
 	github.com/google/go-tpm-tools v0.3.8
 	github.com/google/uuid v1.3.0
 	github.com/gophercloud/gophercloud v0.25.0
-	github.com/hashicorp/hcl/v2 v2.12.0
+	github.com/hashicorp/hcl/v2 v2.14.1
 	github.com/hashicorp/vault/api v1.7.2
 	github.com/hetznercloud/hcloud-go v1.33.2
 	github.com/jacksontj/memberlistmesh v0.0.0-20190905163944-93462b9d2bb7
@@ -46,7 +46,7 @@ require (
 	github.com/weaveworks/mesh v0.0.0-20191105120815-58dbcc3e8e63
 	github.com/zclconf/go-cty v1.10.0
 	go.uber.org/multierr v1.8.0
-	golang.org/x/crypto v0.0.0-20220427172511-eb4f295cb31f
+	golang.org/x/crypto v0.0.0-20220517005047-85d78b3ac167
 	golang.org/x/net v0.0.0-20220607020251-c690dde0001d
 	golang.org/x/oauth2 v0.0.0-20220524215830-622c5d57e401
 	golang.org/x/sync v0.0.0-20220601150217-0de741cfad7f
